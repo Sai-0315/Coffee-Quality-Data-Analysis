@@ -6,7 +6,7 @@ As a data analyst, I thrive on uncovering meaningful insights from complex datas
 🔹 Key Projects & Insights:
 📊 Coffee Quality Analysis
 
-Analyzed 10,000+ data points to identify key sensory attributes influencing coffee quality.
+Analyzed key sensory attributes influencing coffee quality.
 Determined Flavor (4,603.16 sum value) as the strongest determinant, with Acidity (1,501.80) enhancing coffee complexity.
 Developed 6+ visualizations (scatter plots, bar charts) to illustrate relationships between coffee attributes and total cup scores.
 Provided insights to refine coffee scoring methodologies, improving quality consistency.
