@@ -1,4 +1,4 @@
-#Coffee Quality Data Analysis
+Coffee Quality Data Analysis
 🚀 Uncovering Insights Through Data | SQL | Power BI | Excel
 
 As a data analyst, I thrive on uncovering meaningful insights from complex datasets to drive informed decision-making. My expertise spans SQL, Power BI, and Excel, enabling me to extract, clean, and visualize data for impactful business solutions.
